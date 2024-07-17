@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+*** npm init
+
+if u don't have tailwind -> npm install -D tailwindcss
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
