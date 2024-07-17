@@ -15,27 +15,27 @@ export default function Example() {
 
   const features = [
     {
-      name: 'Push to deploy',
+      name: 'Born To Code',
       description:
-        'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+        'Passionné par le code, j\'évolue avec les nouvelles technologies afin de toujours être d\'actualitée. Avec un fort intérêt pour le développemnt Full-Stack, je sais m\'adapter à tous les environnements.',
       icon: CodeBracketIcon,
     },
     {
-      name: 'SSL certificates',
+      name: 'Test de non régression',
       description:
-        'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+        'Grâce à mes expériences j\'ai pu apprendre à réaliser des tests de non régressions afin de pouvoir certifié la qualité d\'un patch. La création de scénéraio avec SELENIUM permet l\'automatisation des TNR.',
       icon: ShieldCheckIcon,
     },
     {
-      name: 'Simple queues',
+      name: 'Gestion de projet',
       description:
-        'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+        'La méthode agile SCRUM m\'a permis de pourvoir mener à bien des projets sur des Sprint hebdomadaires afin de respecter les délais et de budgétiser / livrer en conséquence.',
       icon: AdjustmentsHorizontalIcon,
     },
     {
-      name: 'Advanced security',
+      name: 'Expérience utilisateur',
       description:
-        'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+        'L\'Experience utilisateur dans un projet est une partie très importante. Elle passe part la phase de conception jusqu\'à la phase de test. En tant que développeur Full-Stack, c\'est une partie indispensable sur le Front.',
       icon: UserCircleIcon,
     },
   ];
@@ -43,8 +43,8 @@ export default function Example() {
   return (
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl lg:text-center">
-          <h2 className="text-base font-semibold leading-7 text-indigo-600">Alternant</h2>
+        <div className="mx-auto max-w-2xl lg:text-center">         
+          <h2 className="text-base font-semibold leading-7 text-indigo-600">Alternant Ecole IPI - Toulouse</h2>
           <p style={{ marginRight: '141px' }} className="relative mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl h-10">
             <span>Développeur </span>
             {words.map((word, i) => (
@@ -56,9 +56,6 @@ export default function Example() {
                 {word}
               </span>
             ))}
-          </p>
-          <p className="mt-6 text-lg leading-8 text-gray-600">
-              Me suivre sur : 
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">

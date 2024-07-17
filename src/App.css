@@ -1,7 +1,10 @@
 body {
   font-family: Arial, sans-serif;
+  
 }
-
+html {
+  
+}
 header {
   background-color: #282c34;
   padding: 20px;
@@ -36,3 +39,10 @@ footer {
   bottom: 0;
   width: 100%;
 }
+html::-webkit-scrollbar {
+  display: none;
+}
+/* html::-webkit-scrollbar-track {
+  background: #ffffff;
+  border-radius: 20px;
+} */
