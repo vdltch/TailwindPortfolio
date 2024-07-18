@@ -2,7 +2,7 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 
 const Projects = () => {
-  const words = ["Kalifast", "HomeStream", "Calendar"];
+  const words = ["Kalifast", "Kalifast Monitoring", "HomeStream"];
   const [index, setIndex] = useState(0);
 
   useEffect(() => {
@@ -74,7 +74,7 @@ const Projects = () => {
         </div>
           </div>
           <div className="bg-gray-100 p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
-            <h3 className="text-2xl font-semibold mb-4">HomeStream</h3>
+            <h3 className="text-2xl font-semibold mb-4">Kalifast Monitoring</h3>
             <img style={{ borderRadius: '5%' }} src='https://www.danmonceau.fr/assets/new_project_asset/new_project_image/kalifast.webp' />
             <h2 className="text-base font-semibold leading-7 text-indigo-600">JavaScript - Films/Series - API</h2>
             <p className="text-lg mt-2">
@@ -91,7 +91,7 @@ const Projects = () => {
         </div>
           </div>
           <div className="bg-gray-100 p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
-            <h3 className="text-2xl font-semibold mb-4">Calendar WordPress Plugin</h3>
+            <h3 className="text-2xl font-semibold mb-4">HomeStream</h3>
             <img style={{ borderRadius: '5%' }} src='https://www.danmonceau.fr/assets/new_project_asset/new_project_image/kalifast.webp' />
             <h2 className="text-base font-semibold leading-7 text-indigo-600">PHP - Wordpress - API</h2>
             <p className="text-lg mt-2">
