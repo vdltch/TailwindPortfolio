@@ -17,7 +17,7 @@ export default function Example() {
     {
       name: 'Born To Code',
       description:
-        'Passionné par le code, j\'évolue avec les nouvelles technologies afin de toujours être d\'actualitée. Avec un fort intérêt pour le développemnt Full-Stack, je sais m\'adapter à tous les environnements.',
+        'Passionné par le code, j\'évolue avec les nouvelles technologies afin de toujours être d\'actualité. Avec un fort intérêt pour le développement Full-Stack, je sais m\'adapter à tous les environnements.',
       icon: CodeBracketIcon,
     },
     {
@@ -29,13 +29,13 @@ export default function Example() {
     {
       name: 'Gestion de projet',
       description:
-        'La méthode agile SCRUM m\'a permis de pourvoir mener à bien des projets sur des Sprint hebdomadaires afin de respecter les délais et de budgétiser / livrer en conséquence.',
+        'La méthode agile SCRUM m\'a permis de pouvoir mener à bien des projets sur des Sprint hebdomadaires afin de respecter les délais et de budgétiser / livrer en conséquence.',
       icon: AdjustmentsHorizontalIcon,
     },
     {
       name: 'Expérience utilisateur',
       description:
-        'L\'Experience utilisateur dans un projet est une partie très importante. Elle passe part la phase de conception jusqu\'à la phase de test. En tant que développeur Full-Stack, c\'est une partie indispensable sur le Front.',
+        'L\'Expérience utilisateur dans un projet est une partie très importante. Elle passe par la phase de conception jusqu\'à la phase de test. En tant que développeur Full-Stack, c\'est une partie indispensable de tout projet.',
       icon: UserCircleIcon,
     },
   ];

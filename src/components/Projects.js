@@ -61,7 +61,7 @@ const Projects = () => {
             <img style={{ borderRadius: '5%' }} src='../assets/kalifast.png' />
             <h2 className="text-base font-semibold leading-7 text-indigo-600">Angular - SaaS - Automatisation</h2>
             <p className="text-lg mt-2">
-              Kalifast est une application d'automatisation de tests et de gestion de projet. Celle-ci permet aussi de pouvoir gérer sur un sprint bien précis, des livraisons, des tâches, des requirements et pleins d'autres.
+              Kalifast est une application d'automatisation de tests et de gestion de projet. Celle-ci permet aussi de pouvoir gérer sur un sprint bien précis des livraisons, des tâches, des requirements et pleins d'autres.
             </p>
             <div className="mt-10">
           <button
@@ -78,7 +78,7 @@ const Projects = () => {
             <img style={{ borderRadius: '5%' }} src='../assets/stylunique.png' />
             <h2 className="text-base font-semibold leading-7 text-indigo-600">Wordpress - Woocomerce - API - UX/UI</h2>
             <p className="text-lg mt-2">
-             Styl'Unique est une platforme de e-Commerce dans la vente de produit personnalisé pour des anniversaires, des mariages.
+             Styl'Unique est une plateforme de e-Commerce dans la vente de produits personnalisés pour des anniversaires et des mariages.
             </p>
             <br></br>
             <div className="mt-10">
@@ -96,7 +96,7 @@ const Projects = () => {
             <img style={{ borderRadius: '5%' }} src='../assets/equipagro.png' />
             <h2 className="text-base font-semibold leading-7 text-indigo-600">Laravel - React - API</h2>
             <p className="text-lg mt-2">
-            Equipagro Tools est un outil de gestion d'impayé pour les professionnels afin de limiter les risques de non paiement.
+            Equipagro Tools est un outil de gestion d'impayés pour les professionnels afin de limiter les risques de non paiements.
             </p>
             <br></br>
             <div className="mt-10">
