@@ -13,7 +13,7 @@ export default function Example() {
           N'hésitez pas à visioner mon CV disponible
         </p>
         <a
-            href='#'
+            href='../assets/CVIPI.pdf'
             className="flex-none rounded-full bg-gray-900 px-3.5 py-1 text-sm font-semibold text-white shadow-sm hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900"
         >
           juste ici <span aria-hidden="true">&rarr;</span>
